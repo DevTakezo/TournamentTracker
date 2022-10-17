@@ -1,0 +1,17 @@
+F:\C#\TrackerUI\TrackerUI\bin\Debug\net6.0-windows\TrackerUI.exe
+F:\C#\TrackerUI\TrackerUI\bin\Debug\net6.0-windows\TrackerUI.deps.json
+F:\C#\TrackerUI\TrackerUI\bin\Debug\net6.0-windows\TrackerUI.runtimeconfig.json
+F:\C#\TrackerUI\TrackerUI\bin\Debug\net6.0-windows\TrackerUI.dll
+F:\C#\TrackerUI\TrackerUI\bin\Debug\net6.0-windows\TrackerUI.pdb
+F:\C#\TrackerUI\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.csproj.AssemblyReference.cache
+F:\C#\TrackerUI\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.TournamentViewerForm.resources
+F:\C#\TrackerUI\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.csproj.GenerateResource.cache
+F:\C#\TrackerUI\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\TrackerUI\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.AssemblyInfoInputs.cache
+F:\C#\TrackerUI\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.AssemblyInfo.cs
+F:\C#\TrackerUI\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.csproj.CoreCompileInputs.cache
+F:\C#\TrackerUI\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.dll
+F:\C#\TrackerUI\TrackerUI\obj\Debug\net6.0-windows\refint\TrackerUI.dll
+F:\C#\TrackerUI\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.pdb
+F:\C#\TrackerUI\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.genruntimeconfig.cache
+F:\C#\TrackerUI\TrackerUI\obj\Debug\net6.0-windows\ref\TrackerUI.dll
